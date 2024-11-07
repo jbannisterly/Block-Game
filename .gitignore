@@ -1,0 +1,4 @@
+SavedGames
+Minecraft\obj
+Minecraft\bin\Debug\SavedGames\*
+Minecraft\bin\Debug\Data.txt
